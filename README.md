@@ -23,3 +23,4 @@ Change Enemy	| che | Change the enemies stats($t5,$t6) to random values
 Great Rune	| grune | Doubles all of your stats($t1-$t4)
 Golden Vow	| gvow | Doubles your HP($t1)
 Midra's Flame	| mfla | Reduce your HP($t1) by half and double your STR($t3) and INT($t4)
+[Untitled document.pdf](https://github.com/user-attachments/files/24090925/Untitled.document.pdf)
